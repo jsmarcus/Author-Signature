@@ -5,7 +5,7 @@ Plugin URI: http://www.thestage.co.uk
 Description: It displays the author signature after each post.
 Version: 1.0
 Author: Zakir Sajib
-Author URI: http://www.thestage.co.uk
+Author URI: http://www.zakirsajib.com
 License: GPL2
 
 
