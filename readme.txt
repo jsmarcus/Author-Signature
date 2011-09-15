@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Author Signature ===
 Contributors: Zakir Sajib
 Tags: author, signature
 Requires at least: 2.8
