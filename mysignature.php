@@ -57,7 +57,7 @@ if (!class_exists("MySignature")){
 					function adminPage(){					
 							?>							
 							<div class="wrap">
-								<h2><?php _e('Author Signature Settinga', 'mysignature'); ?></h2>
+								<h2><?php _e('Author Signature Settings', 'mysignature'); ?></h2>
 								<form method="post" id="mysignature" action="options.php">
 									<?php settings_fields('adminPage-group'); ?>
 									<?php do_settings_sections('adminPage-group'); ?>
