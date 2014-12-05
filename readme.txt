@@ -2,7 +2,7 @@
 Contributors: Zakir Sajib
 Tags: author, signature
 Requires at least: 2.8
-Tested up to: 3.2.1
+Tested up to: 4.0.1
 
 This plugin appends the author's display name to blog posts or/and pages.
 
