@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: Author Signature
-Plugin URI: http://www.thestage.co.uk
+Plugin URI: https://wordpress.org/plugins/author-signature/
 Description: It displays the author signature after each post.
-Version: 1.0
+Version: 1.1
 Author: Zakir Sajib
-Author URI: http://www.zakirsajib.com
+Author URI: https://www.odesk.com/users/%7E0173a11de60c8f353e
 License: GPL2
 
 
- Copyright 2011  Zakir Sajib  (email : zakir@thestage.co.uk)
+ Copyright 2014  Zakir Sajib  (email : zakirsajib@gmail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
